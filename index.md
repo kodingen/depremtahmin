@@ -1,4 +1,4 @@
-**OLASI DEPREM KAYIP TAHMİNLERİ İLÇE KİTAPÇIKLARI**
+**OLASI DEPREM KAYIP TAHMİNLERİ İLÇE KİTAPÇIKLARI_**
 
 1999 Gölcük (M=7.4) ve Düzce (M=7.2) yıkıcı depremlerden edinilen deneyimler ışığında, yıkıcı deprem tehlikesi taşıyan mega kentlerin deprem tehlikelerinin ve risklerinin ortaya konulmasının önemi bir ihtiyaç haline gelmiştir. Bu kapsamda, her an yıkıcı bir deprem bekleyen İstanbul’un deprem tehlikesinin ve risklerinin; bu konudaki güncel bilimsel analiz yöntemleri, mevcut üst yapı ve alt yapı envanter bilgileri gibi veri setleri kullanılarak ortaya konulması ve sonuçlarının, özellikle bütünleşik afet yönetimi sürecinde kullanılması, kent planlama çalışmalarında kullanılması, depreme karşı yapısal iyileştirme ve kentsel dönüşüm amacı ile önceliklendirmeler yapmak amacı ile kullanılması, deprem dirençli bir İstanbul için son derece önemlidir.
 

@@ -8,4 +8,7 @@ Bu kapsamda, İstanbul’daki 39 ilçemize ait deprem tehlike ile kentsel üst y
  
 39 ilçemize özel deprem kayıp tahmini raporuna, aşağıdaki bağlantılardan erişilebilmektedir.
 
-Kaynak : https://depremzemin.ibb.istanbul/guncelcalismalarimiz/
+
+Site İçin : https://s1.karson.com.tr
+
+Kaynak    : https://depremzemin.ibb.istanbul/guncelcalismalarimiz/
